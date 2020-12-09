@@ -1,4 +1,4 @@
-# Wstęp do gita
+#  Wstęp do gita
 
 Po wykonaniu danego ćwiczenia poprzedź je znakami (*).
 Przykładowo ćwiczenie przed wykonaniem wyglądające następująco:
