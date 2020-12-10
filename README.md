@@ -18,3 +18,10 @@ N. (*) Ćwiczenie do wykonania.
 6. zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
 7. dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
 8. dodaj informację numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu) (-)
+
+
+Numery albumów członków zespołu:
+130abc
+130abb
+130aaa
+130bbb
