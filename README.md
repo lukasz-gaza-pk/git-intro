@@ -3,11 +3,11 @@
 Po wykonaniu danego ćwiczenia poprzedź je znakami (*).
 Przykładowo ćwiczenie przed wykonaniem wyglądające następująco:
 ```
-N. Ćwiczenie do wykonania.
+Zadanie N. Ćwiczenie do wykonania.
 ```
 po wykonaniu ma wyglądać następująco:
 ```
-N. (*) Ćwiczenie do wykonania.
+Zadanie N. (*) Ćwiczenie do wykonania.
 ```
 
 2. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
